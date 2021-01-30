@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             }
         });
 
-
+            /* Removes text in input box when clicked */
 
         input_value.setOnClickListener(new View.OnClickListener() {
 
